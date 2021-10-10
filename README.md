@@ -5,7 +5,12 @@ Early blight and late blight are the most common diseases on potato. They usuall
 * Early Blight - Symptoms of early disease first appear in the base of the affected plant, with roughly round brown spots on the leaves and stems.
 * Late blight  - The most obvious early signs of late blight are brown spots or disease spots on plant stems.
 ![images](https://user-images.githubusercontent.com/42634704/136694359-5722e1c6-31d2-4d44-b335-4434e4a37a8e.JPG)
- 
+
+
+## Techincal Aspect:
+
+ ![workflow](https://user-images.githubusercontent.com/42634704/136700449-fd8630f9-448a-4ede-96b4-d98d615238ee.jpg)
+
 ## Dataset:
 1. Download the data from [kaggle](https://www.kaggle.com/arjuntejaswi/plant-village), and only keep folders related to Potatoes.
 
@@ -88,4 +93,6 @@ gcloud functions deploy predict_lite --runtime python38 --trigger-http --memory 
 GoogleCloud : https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions
 
 
-### Inspiration : https://youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD 
+## Inspiration :
+https://youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD 
+
